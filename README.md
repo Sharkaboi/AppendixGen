@@ -1,3 +1,5 @@
+# AppendixGen
+
 **AppendixGen** is a Kotlin CLI tool to generate an appendix of all code in a folder to a markdown file.  
 
 ## Installation
